@@ -1,0 +1,91 @@
+﻿student_id,name,department,cgpa,backlogs,skills,attendance,aptitude_score,coding_score,projects_completed,certifications,communication_score
+CSC001,Aarav Sharma,CSC,8.38,0,Java;Web Development,72,66,48,1,5,43
+CSC002,Ananya Verma,CSC,8.55,0,SQL;Power BI,82,39,23,0,1,59
+CSC003,Vivaan Singh,CSC,7.77,0,AutoCAD;Python,67,88,48,3,4,65
+CSC004,Diya Gupta,CSC,9.14,0,Java;SQL,99,89,63,2,1,57
+CSC005,Aditya Patel,CSC,9.81,2,Python;SQL,60,83,32,2,6,74
+CSC006,Ishita Khan,CSC,8.22,0,Java;Web Development,84,50,68,0,4,67
+CSC007,Arjun Mishra,CSC,9.23,2,SQL;Power BI,67,43,25,5,1,67
+CSC008,Meera Reddy,CSC,9.93,1,Python;SQL,79,70,78,5,6,76
+CSC009,Kabir Jain,CSC,6.23,2,Python;Java;SQL,97,69,29,4,5,51
+CSC010,Sana Das,CSC,7.9,1,Java;SQL,84,83,54,5,5,58
+AIML001,Rohan Verma,AIML,8.58,0,Python;Java;SQL,57,75,71,2,0,57
+AIML002,Aditi Singh,AIML,9.61,2,Python;Java;SQL,96,98,70,5,3,48
+AIML003,Kunal Gupta,AIML,6.69,1,Java;Web Development,90,68,94,3,4,81
+AIML004,Nisha Patel,AIML,7.13,1,AutoCAD;Python,86,46,26,0,1,50
+AIML005,Dev Khan,AIML,9.06,3,SQL;Power BI,59,84,68,4,3,97
+AIML006,Pooja Mishra,AIML,6.63,0,Python;C++;Machine Learning,62,69,63,0,2,85
+AIML007,Yash Reddy,AIML,6.21,0,Java;Web Development,71,99,42,4,0,68
+AIML008,Simran Jain,AIML,9.29,1,Java;SQL,78,55,89,4,0,71
+AIML009,Manav Das,AIML,7.7,0,Java;C++;SQL,74,65,27,1,4,40
+AIML010,Tanya Sharma,AIML,5.89,3,Python;SQL,89,51,36,5,3,100
+IT001,Aarav Singh,IT,6.24,3,Python;Java;SQL,89,60,59,3,5,77
+IT002,Ananya Gupta,IT,7.47,3,Python;SQL,70,63,28,2,0,100
+IT003,Vivaan Patel,IT,6.54,1,Python;Java,59,42,49,0,0,72
+IT004,Diya Khan,IT,5.82,1,C++;Python,97,97,47,4,1,90
+IT005,Aditya Mishra,IT,6.59,3,Python;Machine Learning,67,47,32,5,3,75
+IT006,Ishita Reddy,IT,7.41,3,Java;Web Development,58,47,27,3,5,73
+IT007,Arjun Jain,IT,9.1,0,Python;Java;SQL,67,59,88,3,1,84
+IT008,Meera Das,IT,6.33,3,Python;Java;SQL,59,91,90,0,0,99
+IT009,Kabir Sharma,IT,9.26,0,Python;Java;SQL,65,87,82,3,1,81
+IT010,Sana Verma,IT,9.56,1,Python;Machine Learning,55,84,53,3,2,84
+ECE001,Rohan Gupta,ECE,8.63,3,Java;SQL,67,72,47,0,4,99
+ECE002,Aditi Patel,ECE,5.77,2,Python;Java,58,96,84,4,1,37
+ECE003,Kunal Khan,ECE,9.82,0,Java;SQL,59,43,50,3,0,61
+ECE004,Nisha Mishra,ECE,8.11,0,SQL;Power BI,60,88,94,4,4,70
+ECE005,Dev Reddy,ECE,9.71,1,Python;C++;Machine Learning,100,75,50,2,3,46
+ECE006,Pooja Jain,ECE,8.52,2,MATLAB;Python,75,44,21,3,4,42
+ECE007,Yash Das,ECE,5.83,1,AutoCAD;Python,71,51,64,0,1,77
+ECE008,Simran Sharma,ECE,6.78,3,AutoCAD;Python,100,73,98,5,4,31
+ECE009,Manav Verma,ECE,8.51,2,Python;C++;Machine Learning,61,52,53,0,0,100
+ECE010,Tanya Singh,ECE,6.2,2,SQL;Power BI,68,78,46,5,5,63
+EE001,Aarav Patel,EE,7.77,2,Python;Java,60,89,55,0,0,72
+EE002,Ananya Khan,EE,8.97,2,Java;SQL,83,89,91,0,0,39
+EE003,Vivaan Mishra,EE,9.75,1,AutoCAD;Python,57,82,94,4,1,85
+EE004,Diya Reddy,EE,6.07,2,Java;C++;SQL,57,80,46,5,1,43
+EE005,Aditya Jain,EE,7.09,3,SQL;Power BI,64,65,40,1,3,33
+EE006,Ishita Das,EE,6.31,2,Python;Machine Learning,97,66,54,1,6,43
+EE007,Arjun Sharma,EE,7.22,0,MATLAB;Python,69,60,78,2,2,59
+EE008,Meera Verma,EE,6.5,1,Python;Machine Learning,76,70,28,2,2,95
+EE009,Kabir Singh,EE,7.3,2,Python;Java,62,68,42,4,2,34
+EE010,Sana Gupta,EE,5.99,3,Java;C++;SQL,75,90,97,4,0,79
+ME001,Rohan Khan,ME,9.55,1,C++;Python,57,90,20,4,6,98
+ME002,Aditi Mishra,ME,8.59,1,Java;C++;SQL,82,43,62,4,2,45
+ME003,Kunal Reddy,ME,8.74,2,AutoCAD;Python,74,87,61,3,5,67
+ME004,Nisha Jain,ME,7.99,1,Python;Machine Learning,97,83,42,4,4,68
+ME005,Dev Das,ME,7.33,0,C++;Python,73,61,75,4,4,71
+ME006,Pooja Sharma,ME,7.59,3,Python;C++;Machine Learning,68,100,80,5,1,40
+ME007,Yash Verma,ME,6.78,2,Python;SQL,70,74,48,1,1,33
+ME008,Simran Singh,ME,5.71,3,SQL;Power BI,59,93,73,5,4,54
+ME009,Manav Gupta,ME,8.73,3,MATLAB;Python,80,66,38,5,5,30
+ME010,Tanya Patel,ME,9.52,0,Python;Machine Learning,69,57,86,3,0,61
+CE001,Aarav Mishra,CE,9.63,0,MATLAB;Python,63,94,87,4,4,70
+CE002,Ananya Reddy,CE,9.78,3,SQL;Power BI,87,89,90,3,1,90
+CE003,Vivaan Jain,CE,7.53,1,Python;C++;Machine Learning,72,97,100,1,2,86
+CE004,Diya Das,CE,5.85,2,Python;Java;SQL,72,77,60,4,0,47
+CE005,Aditya Sharma,CE,6.18,3,Java;Web Development,64,62,28,3,3,72
+CE006,Ishita Verma,CE,7.94,3,Python;Java,68,88,69,4,5,32
+CE007,Arjun Singh,CE,9.36,3,MATLAB;Python,55,80,58,3,6,83
+CE008,Meera Gupta,CE,7.92,1,MATLAB;Python,69,69,75,3,0,79
+CE009,Kabir Patel,CE,7.01,3,Java;Web Development,65,94,36,4,4,33
+CE010,Sana Khan,CE,9.58,0,Python;SQL,96,89,37,3,1,36
+CHE001,Rohan Reddy,CHE,6.67,2,Python;Java;SQL,84,76,63,3,2,83
+CHE002,Aditi Jain,CHE,6.64,0,MATLAB;Python,56,41,64,1,5,38
+CHE003,Kunal Das,CHE,9.02,0,Python;Java,70,60,22,4,1,60
+CHE004,Nisha Sharma,CHE,6.07,0,SQL;Power BI,68,94,52,2,1,44
+CHE005,Dev Verma,CHE,9.0,1,C++;Python,61,38,59,4,5,78
+CHE006,Pooja Singh,CHE,7.28,1,Python;SQL,92,66,33,5,6,68
+CHE007,Yash Gupta,CHE,9.33,0,SQL;Power BI,57,79,88,3,5,77
+CHE008,Simran Patel,CHE,5.81,2,Python;Java,81,97,33,3,2,88
+CHE009,Manav Khan,CHE,8.68,3,Java;SQL,88,69,98,4,6,91
+CHE010,Tanya Mishra,CHE,7.59,2,Java;C++;SQL,70,46,55,3,1,89
+AIDS001,Aarav Jain,AIDS,8.06,3,Java;C++;SQL,56,98,61,1,3,57
+AIDS002,Ananya Das,AIDS,7.1,2,Java;C++;SQL,72,70,91,0,4,54
+AIDS003,Vivaan Sharma,AIDS,5.89,3,MATLAB;Python,90,65,80,5,5,92
+AIDS004,Diya Verma,AIDS,7.52,0,Python;SQL,73,63,71,5,1,69
+AIDS005,Aditya Singh,AIDS,8.49,2,MATLAB;Python,90,79,74,5,4,72
+AIDS006,Ishita Gupta,AIDS,7.08,3,C++;Python,74,67,49,0,5,54
+AIDS007,Arjun Patel,AIDS,6.92,1,Python;Java;SQL,68,96,55,5,4,97
+AIDS008,Meera Khan,AIDS,8.19,0,Python;Java;SQL,73,64,66,1,2,31
+AIDS009,Kabir Mishra,AIDS,8.69,1,C++;Python,57,41,90,2,5,46
+AIDS010,Sana Reddy,AIDS,8.37,3,Python;SQL,55,71,80,3,3,73
